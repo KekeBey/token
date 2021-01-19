@@ -27,7 +27,7 @@ const index3 = new Discord.Client();
 const index4 = new Discord.Client();
 const index5 = new Discord.Client();
 
-index1.login("token yaz");
+index1.login("NzkxNzc2NDk2Njk1MjQ2ODU4.X-UFUw.PQAvW7JbGo6y-OiVTOiDQBJ4vRg");
 index2.login("token yaz");
 index3.login("token yaz");
 index4.login("token yaz");
